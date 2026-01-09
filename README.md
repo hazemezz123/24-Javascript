@@ -1,4 +1,4 @@
-# 24-Javascript
+# 24-TypeScript
 
 Small Typescript practice problems.
 
@@ -16,4 +16,3 @@ Small Typescript practice problems.
 - `Problem-10.ts` - Build a frequency map and check if a character repeats 2-4 times.
 - `Problem-11.ts` - Separate even values and demonstrate filtering an array of numbers.
 - `Problem-12.ts` - Count how many even numbers exist in an array and return the count text.
-
